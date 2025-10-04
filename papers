@@ -1,0 +1,51 @@
+<div class="card">
+      <h3>Mathematics</h3>
+      <button onclick="alert('Download link coming soon!')">Download Paper 1</button>
+      <button onclick="alert('Download link coming soon!')">Download Paper 2</button>
+    </div>
+
+    <div class="card">
+      <h3>English</h3>
+      <button onclick="al<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NET Practice Papers</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>NET Practice Papers 📘</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="papers.html">Practice Papers</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <section class="papers">
+    <h2>Subjects</h2>
+    
+    <div class="card">
+      <h3>Physics</h3>
+      <button onclick="alert('Download link coming soon!')">Download Paper 1</button>
+      <button onclick="alert('Download link coming soon!')">Download Paper 2</button>
+    </div>ert('Download link coming soon!')">Download Paper 1</button>
+    </div>
+
+    <div class="card">
+      <h3>Intelligence / IQ</h3>
+      <button onclick="alert('Download link coming soon!')">Download Paper 1</button>
+    </div>
+
+  </section>
+
+  <footer>
+    <p>© 2025 Abubakar NUST NET Prep | All Rights Reserved</p>
+  </footer>
+
+</body>
+</html>
